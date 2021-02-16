@@ -10,6 +10,11 @@
       "StackName": "amplify-aplfytest-master-202455",
       "StackId": "arn:aws:cloudformation:us-west-2:741473757284:stack/amplify-aplfytest-master-202455/d32b5580-6f88-11eb-84d3-0692e61896a9",
       "AmplifyAppId": "d1m7i0ytjai1y3"
+    },
+    "categories": {
+      "auth": {
+        "aplfytestecf16509": {}
+      }
     }
   }
 }
